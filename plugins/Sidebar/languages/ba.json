@@ -1,0 +1,82 @@
+{
+	"Peers": "Peerovi",
+	"Connected": "Spojen",
+	"Connectable": "Spojivo",
+	"Connectable peers": "Spojivi peerovi",
+
+	"Data transfer": "Prijenos podataka",
+	"Received": "Primljeno",
+	"Received bytes": "Primljeno bajtova",
+	"Sent": "Poslano",
+	"Sent bytes": "Poslano bajtova",
+
+	"Files": "Fajlovi",
+	"Total": "Ukupno",
+	"Image": "Slika",
+	"Other": "Drugo",
+	"User data": "O korisniku",
+
+	"Size limit": "Dozvoljena veličina",
+	"limit used": "iskorišteni limit",
+	"free space": "slobodan prosot",
+	"Set": "Namjesti",
+
+	"Optional files": "Nebitni fajlovi",
+	"Downloaded": "Skinuto",
+	"Download and help distribute all files": "Preuzmi i pomozi distribuirat sve fajlove",
+	"Total size": "Ukupna veličina",
+	"Downloaded files": "Preuzeti fajlovi",
+
+	"Database": "Baza podataka",
+	"search feeds": "Traži feeds",
+	"{feeds} query": "{feeds} skup",
+	"Reload": "Újratöltés",
+	"Rebuild": "Újraépítés",
+	"No database found": "Adatbázis nem található",
+
+	"Identity address": "Azonosító cím",
+	"Change": "Módosít",
+
+	"Site control": "Oldal műveletek",
+	"Update": "Frissít",
+	"Pause": "Szünteltet",
+	"Resume": "Folytat",
+	"Delete": "Töröl",
+	"Are you sure?": "Jeste li sigurni?",
+
+	"Site address": "Adresa stranice",
+	"Donate": "Doniraj",
+
+	"Missing files": "Fajlovi nedostaju",
+	"{} try": "{} pokušaj",
+	"{} tries": "{} pokušaja",
+	"+ {num_bad_files} more": "+ {num_bad_files} više",
+
+	"This is my site": "Ovo je moja stranica",
+	"Site title": "Naslov stranice",
+	"Site description": "Opis stranice",
+	"Save site settings": "Spasi podešavanja stranice",
+
+	"Content publishing": "Sadržaj se stavlja",
+	"Choose": "Izaberi",
+	"Sign": "Loguj",
+	"Publish": "Objavi",
+
+	"This function is disabled on this proxy": "Ova funkcija je izgašena na ovom proxyu",
+	"GeoLite2 City database download error: {}!<br>Please download manually and unpack to data dir:<br>{}": "GeoLite2 city greška na bazi podataka: {}!<br>Molimo vas da preuzmete sami i otpakujete u data direktorij:<br>{}",
+	"Downloading GeoLite2 City database (one time only, ~20MB)...": "GeoLite2 city baza podataka (samo jednom, kb 20MB)...",
+	"GeoLite2 City database downloaded!": "GeoLite2 city baza podataka preuzeta!",
+
+	"Are you sure?": "Jeste li sigurni?",
+	"Site storage limit modified!": "Limit kapaciteta stranice promijenjen",
+	"Database schema reloaded!": "Šema baze podataka promijenjena",
+	"Database rebuilding....": "Baza podataka se obrađuje...",
+	"Database rebuilt!": "Baza podataka dovršena",
+	"Site updated!": "Stranica ažurirana!",
+	"Delete this site": "Izbrišite ovu stranicu",
+	"File write error: ": "Greška na podatku: ",
+	"Site settings saved!": "Postavke stranice spašene",
+	"Enter your private key:": "Unesite vaš privatni kod:",
+	" Signed!": " Spojen!",
+	"WebGL not supported": "WebGL nije podržan"
+}
